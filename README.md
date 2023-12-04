@@ -12,6 +12,8 @@ docker-compose up -d db
 
 ## Building and Running in Docker
 
+### com-test
+
 ### Build
 ```shell script
 docker-compose build
